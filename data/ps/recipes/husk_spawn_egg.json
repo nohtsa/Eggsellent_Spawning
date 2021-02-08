@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:zombie_spawn_egg"
+    },
+    "addition": {
+        "item": "minecraft:chiseled_sandstone"
+    },
+    "result": {
+        "item": "minecraft:husk_spawn_egg"
+    }
+}

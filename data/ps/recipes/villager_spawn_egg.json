@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:leather_chestplate"
+        },
+        {
+            "item": "minecraft:experience_bottle"
+        },
+        {
+            "item": "minecraft:emerald_block"
+        },
+        {
+            "item": "minecraft:egg"
+        }
+    ],
+    "result": {
+        "item": "minecraft:villager_spawn_egg",
+        "count": 1
+    }
+}

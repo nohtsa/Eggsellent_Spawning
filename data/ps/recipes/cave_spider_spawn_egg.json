@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:spider_spawn_egg"
+    },
+    "addition": {
+        "item": "minecraft:poisonous_potato"
+    },
+    "result": {
+        "item": "minecraft:cave_spider_spawn_egg"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:villager_spawn_egg"
+    },
+    "addition": {
+        "item": "minecraft:nether_wart"
+    },
+    "result": {
+        "item": "minecraft:witch_spawn_egg"
+    }
+}

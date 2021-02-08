@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:spider_eye"
+        },
+        {
+            "item": "minecraft:experience_bottle"
+        },
+        {
+            "item": "minecraft:string"
+        },
+        {
+            "item": "minecraft:egg"
+        }
+    ],
+    "result": {
+        "item": "minecraft:spider_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:hoglin_spawn_egg"
+    },
+    "addition": {
+        "item": "minecraft:gold_block"
+    },
+    "result": {
+        "item": "minecraft:piglin_spawn_egg"
+    }
+}

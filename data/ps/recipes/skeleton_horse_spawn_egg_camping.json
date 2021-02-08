@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "minecraft:horse_spawn_egg"
+    },
+    "result": "minecraft:skeleton_horse_spawn_egg",
+    "experience": 0.5,
+    "cookingtime": 24000
+}

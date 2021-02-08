@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:hoglin_spawn_egg"
+    },
+    "addition": {
+        "item": "minecraft:rotten_flesh"
+    },
+    "result": {
+        "item": "minecraft:zoglin_spawn_egg"
+    }
+}

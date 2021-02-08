@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:villager_spawn_egg"
+    },
+    "addition": {
+        "item": "minecraft:orange_dye"
+    },
+    "result": {
+        "item": "minecraft:wandering_trader_spawn_egg"
+    }
+}

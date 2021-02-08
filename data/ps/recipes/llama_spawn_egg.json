@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:horse_spawn_egg"
+    },
+    "addition": {
+        "item": "minecraft:white_wool"
+    },
+    "result": {
+        "item": "minecraft:llama_spawn_egg"
+    }
+}

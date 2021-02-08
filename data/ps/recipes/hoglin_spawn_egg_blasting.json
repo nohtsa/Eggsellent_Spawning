@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:pig_spawn_egg"
+    },
+    "result": "minecraft:hoglin_spawn_egg",
+    "experience": 0.5,
+    "cookingtime": 1200
+}

@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:netherite_ingot"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:netherite_ingot"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:pig_spawn_egg"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:netherite_ingot"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:netherite_ingot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:spawner",
+        "count": 1
+    }
+}
